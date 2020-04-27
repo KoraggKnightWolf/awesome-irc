@@ -34,7 +34,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Komanda](https://komanda.io) - Designed for people who write code (beta). ([source](https://github.com/mephux/komanda)) `Linux`
 - [Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source](https://github.com/Codeux-Software/Textual)) `macOS`
 - [LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
-- HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+- [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 - [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
 - [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
 - [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
@@ -99,12 +99,10 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *IRC users which provide services for humans, e.g. integrations or information.*
 
 - [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source](https://github.com/sopel-irc/sopel)) `Python`
-- [phenny](http://inamidst.com/phenny/) - Simple, module creation guide. ([source](https://github.com/sbp/phenny)) `Python`
 - [IRCcat](https://github.com/RJ/irccat) - Simplifies messaging from shell scripts. `Java`
 - [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
 - [Twitch Plays](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python`
 - [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
-- [Jenni](https://github.com/myano/jenni) - `Python`
 - [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
 - [lazybot](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
 - [IRC-BF](https://github.com/ddevault/bf-irc-bot) - `Brainfuck`
@@ -125,7 +123,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [pyaib](https://github.com/facebook/pyaib) - Easy to use framework for writing bots. `Python`
 - [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
-- [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework.
+- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) - `Perl6` based extendable IRC client framework.
 
 #### Bridges
 
@@ -158,7 +156,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 #### Programming
 
-- [#python](https://www.python.org/community/irc/)@freenode - Good place for short python questions. ([rules](https://www.python.org/psf/codeofconduct/))
+- [#python](https://www.python.org/community/irc/)@freenode - Good place for short python questions. ([rules](https://www.python.org/psf/conduct/))
 
 ### Networks
 
